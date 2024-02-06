@@ -23,7 +23,7 @@ $ conda activate optimesm-ssp
 
 ```
 $ nbstripout --install
-
+```
 
 ### Produce results
 
