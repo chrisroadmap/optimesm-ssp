@@ -24,3 +24,13 @@ $ conda activate optimesm-ssp
 ```
 $ nbstripout --install
 
+
+### Produce results
+
+Activate the conda environment if you haven't already. Then run
+
+```
+$ jupyter notebook
+```
+
+Go to the `notebooks` folder, run the notebook, and all results are produced.

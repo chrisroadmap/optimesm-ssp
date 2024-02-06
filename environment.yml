@@ -3,8 +3,11 @@ channels:
   - chrisroadmap
   - conda-forge
 dependencies:
+  - h5py
+  - jupyter
   - fair==2.1.3
   - matplotlib
+  - netcdf4
   - numpy
   - pandas
   - pooch
